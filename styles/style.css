@@ -7,18 +7,18 @@ a {
 }
 
 .header {
-    padding: 102px 50px 90px;
     display: flex;
     position: relative;
     justify-content: space-between;
     align-items: center;
+    padding: 102px 50px 90px;
 }
 
 .header__links-list {
-    list-style: circle;
     display: flex;
     flex-direction: row;
     align-items: center;
+    list-style: circle;
     padding: 0;
 }
 
