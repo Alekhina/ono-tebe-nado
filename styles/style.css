@@ -1,5 +1,6 @@
 body {
     width: 1100px;
+    margin: 0 auto ;
 }
 
 a {
@@ -11,7 +12,7 @@ a {
     position: relative;
     justify-content: space-between;
     align-items: center;
-    padding: 102px 50px 90px;
+    padding: 92px 50px 90px;
 }
 
 .header__links-list {
@@ -147,7 +148,7 @@ a {
     height: 51px;
 }
 
-.lots{
+.lots {
     margin-top: 175px;
 }
 
@@ -161,7 +162,7 @@ a {
     margin-bottom: 26px;
 }
 
-.lots__card-list{
+.lots__card-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 25px;
