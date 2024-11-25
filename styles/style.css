@@ -328,8 +328,8 @@ a {
 .footer__social-list {
     list-style: none;
     display: flex;
-    justify-content: space-between; 
-    width: 240px;
+    justify-content: space-between;
+    min-width: 240px;
     margin: 0;
 }
 
